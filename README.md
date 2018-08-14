@@ -1,4 +1,5 @@
-"intention_finder" 
+intention_finder:
+
 This jupyter notebook can find the intention from a given sentence.
 It's created using MIT Information Extraction library and SpaCy dependency parser.
 It can detect 3 type of intentions:
